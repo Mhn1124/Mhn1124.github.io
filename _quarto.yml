@@ -1,0 +1,65 @@
+<<<<<<< HEAD
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Mohammad Nasirpour"
+  navbar:
+    background: light
+    left:
+      - href: index.qmd
+        text: Home
+      - href: cv.qmd
+        text: Curriculum Vitae
+      - href: research.qmd
+        text: Research & Projects
+    right:
+      - icon: envelope
+        href: mailto:m.h.nasirpour@gmail.com
+      - icon: github
+        href: https://github.com/Mhn1124
+      - icon: linkedin
+        href: YOUR_LINKEDIN_URL
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    page-layout: full
+
+=======
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Mohammad Nasirpour"
+  page-navigation: true
+  navbar:
+    background: light
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - text: Publications
+        href: publications.qmd
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: envelope
+        href: mailto:m.h.nasirpour@gmail.com
+      - icon: github
+        href: https://github.com/Mhn1124
+
+format:
+  html:
+    theme: 
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+    page-layout: full
+>>>>>>> 860a8c351b7b7c9d7ca3cf487335c0e42ea4b141

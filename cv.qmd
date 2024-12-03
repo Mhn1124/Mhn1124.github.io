@@ -1,0 +1,140 @@
+<<<<<<< HEAD
+---
+title: "Curriculum Vitae"
+---
+
+<div class="text-center">
+  <a href="cv/Mohammad_Nasirpour_CV.pdf" class="btn btn-primary btn-lg" download>
+    <i class="bi bi-download"></i> Download CV
+  </a>
+</div>
+
+## Current Possition
+- Ph.D. Student in Clinical Translational Science (May 2024 - Present)
+  Department of Population and Quantitative Health Sciences, Case Western Reserve University
+
+
+## Education
+
+- M.Sc. in Biomedical Sciences (2021-2024)  
+  Department of Biomedical Sciences, Florida State University
+
+## RESEARCH EXPERIENCE
+
+Mashhad University of Medical Sciences, Mashhad, Iran 2021-2022
+Title: SARS-CoV-2 triggering autoimmune diseases.
+- Reviewing the relevant immunological findings in Covid-19 and the current reports of autoimmune disease associated with the disease.
+
+Ferdowsi University of Mashhad, Mashhad, Iran 2021-2022
+Title: PSOWNNs-CNN: A Computational Radiology for Breast Cancer Diagnosis Improvement Based on Image Processing Using Machine Learning Methods.
+- Presenting an innovative approach of particle swarm optimized wavelet neural network (PSOWNN) method for identifying breast cancer.
+
+Urmia University of Technology, Urmia, Iran 2020- 2021
+Title: Revealing the relationship between solar activity and COVID-19 and forecasting of possible future viruses using multi-step autoregression (MSAR).
+- Identify that the emergence of pandemics like COVID-19 outbreaks would be linked with the extremum of the sunspot cycle and forecasting future pandemics in the world for about 110 years or 10 cycles using presented multi-step autoregression (MSAR).
+
+National Institute of Genetic Engineering and Biotechnology (NIGEB), Tehran, Iran
+Title: Identification of DACH1 gene and its related microRNAs as a novel diagnostic biomarker in four stages of breast cancer.
+- Using PCR, qPCR, MS-PCR, and advanced bioinformatics tools to identify the role of the DACH1 gene as a possible novel biomarker.
+- Identification of the most important protein-protein interaction networks for the DACH1 gene and its related miRNAs.
+- Identification of the most important biological pathways, molecular processes, and transcription factors.
+- Identification of DACH1 methylation status as an important epigenetic mechanism for downregulation.
+
+## RELATED PROFESSIONAL EXPERIENCE
+
+Judge for Capital Regional Science and Engineering Fair, Tallahassee, Florida, USA (2023)
+Workshop: Protein Bioinformatics (The first structure study & lipophilicity plot, BLAST alignment & multiple Alignments, Methods of predicting and validating the second and third structures of protein/ Ramachandran plot, Docking), Eastern Mediterranean Health Genomics & Biotechnology Network (EMGEN), Tehran, Iran (2017)
+Workshop: Cytogenetics Techniques in Medical Laboratory of Cytogenome, Tehran, Iran (2016)
+Research methodology workshops (Search in scientific databases, Proposal writing, Scientific writing), Students` Scientific Research Centre, Tehran University of Medical Sciences, Tehran, Iran (2016)
+Workshop: Genetic Engineering Techniques (Gene Cloning, Primer designing, PCR, and Electrophoresis), Tehran, Iran (2015)
+
+## CONFERENCE PRESENTATIONS AND POSTERS
+
+Nasirpour, M. Salimi, M., and Mozdarani H. Gene Expression and Its Promoter Methylation of DACH1 and AKAP4 Genes in Breast Cancer Patients. Poster presentation. 2nd International and 10th National Biotechnology Congress of the Islamic Republic of Iran, Tehran, Iran. 2018
+
+Nasirpour, M. Salimi, M., and Mozdarani H. Gene Expression and Its Promoter Methylation of DACH1 Gene in Breast Cancer Patients. Rapid oral presentation. 2nd International Tehran Breast Cancer Congress (TBCC), Tehran, Iran. 2018
+
+Symposium of Lipidomics and the effects of hyperlipidemia, Conference attendance, Tehran, Iran. 2017
+25th International Congress of Pediatrics and 5th young researcher’s session, Member of the executive committee Tehran, Iran. 2013
+
+## REVIEW ARTICLES
+
+Leila Mobasheri, Mohammad Hossein Nasirpour, Elham Masoumi, Afsaneh Foolady Azarnaminy, Mozhdeh Jafari, Seyed-Alireza Esmaeili. (2022). SARS-CoV-2 triggering autoimmune diseases. Journal of Cytokine, Volume 154, 155873, https://doi.org/10.1016/j.cyto.2022.155873
+
+## PEER-REVIEWED PUBLICATIONS
+
+Lu Hong, Mohammad Hossein Modirrousta, Mohammad Hossein Nasirpour, Mohammadreza Mirshekari Chargari, Fardin Mohammadi, Seyed Vahid Moravvej, Leila Rezvanishad, Mohammadreza Rezvanishad, Ivan Bakhshayeshi, Roohallah Alizadehsani, Imran Razzak, Hamid Alinejad‐Rokny, Saeid Nahavandi. (2023). GAN‐LSTM‐3D: An efficient method for lung tumour 3D reconstruction enhanced by attention‐based LSTM. CAAITrans.Intell.Technol.2023;1–10. https://doi.org/10.1049/cit2.12223
+
+Mohammad Hossein Nasirpour, Mahdieh Salimi, Faezeh Majidi, Zarrin Minuchehr, Hossein Mozdarani. Study of DACH1 Expression and its Epigenetic Regulators as Possible Breast Cancer-Related Biomarkers. (2023). Avicenna J Med Biotechnol. 2023 Apr-Jun; 15(2): 108–117.
+PMID: 37034893.
+
+Ashkan Nomani, Yasaman Ansari, Mohammad Hossein Nasirpour, Armin Masoumian, Ehsan Sadeghi Pour, Amin Valizadeh. (2022). PSOWNNs-CNN: A Computational Radiology for Breast Cancer Diagnosis Improvement Based on Image Processing Using Machine Learning Methods. Journal of Computational Intelligence and Neuroscience, Volume 2022 |Article ID 5667264 | https://doi.org/10.1155/2022/5667264
+
+Mohammad Hossein Nasirpour, Mohammad Sabery Anvar, Alireza Nasirpour, Mahdieh Salimi, Soheil Sepahyr, Zarrin Minuchehr. Gene Expression Profiles Reveal Potential Targets for Breast Cancer Diagnosis and Treatment. bioRxiv, DOI: https://doi.org/10.1101/2022.09.03.504469
+
+Mohammad Hossein Nasirpour, Abbas Sharifi, Mohsen Ahmadi, Saeid Jafarzadeh Ghoushchi.(2021). Revealing the relationship between solar activity and COVID-19 and forecasting of possible future viruses using multi-step autoregression (MSAR). Journal of Environmental Science and Pollution Research.28, pages38074– 38084, https://doi.org/10.1007/s11356-021-13249-2.
+
+## SKILLS
+
+Molecular Biology techniques
+DNA/RNA isolation, plasmid, and genomic DNA isolation, Real Time-PCR, PCR, MS-PCR, Gel electrophoresis, Western blotting, fluorescent and light microscopy, cDNA Synthesis, Data analysis, Rest Software, Biosafety, Primer designing, Methyl Primer Express, MethPrimer, Oligo Analyser, UCSC Genome Browser, BLAST, FASTA.
+Cell Culture and Transfection
+Cell culture and maintenance for breast, colon, lung, brain, leukemia, prostate, melanoma cancer cell lines. Cell transfection, and transduction using lentivirus packaging. Cell staining, Cell imaging by confocal microscopy, Yeast cells culture, Nanobodies discovery and purification.
+
+Animal Models handling
+Cervical dislocation
+
+Computational Skills
+Bioinformatics and Statistics(R studio scripting, Python, SPSS), Functional annotation and clustering (Cytoscape, DAVID, Panther, STRING), Meta-analysis (Flexarray, Expression Console, INMEX or Networkanalyst, Microarray, RNA-Seq, Whole Exome Sequencing, Whole Genome Sequencing, Protein- Protein Interaction Network Analysis, Galaxy, GEO2R, Geworkbench, Heatmap), Single Cell RNA-Seq, Seurat pipeline.
+Graphic illustration (Photoshop), Microsoft package (Word, Excel, Outlook, PowerPoint), Databases (NCBI, GEO, ArrayExpress and Expression Atlas, UniProt, Swiss-Prot, PDB, TCGA, GeneCards, COSMIC, dbSNP, RCSB Protein Data Bank, ZINC, KEGG).
+---
+=======
+---
+title: "Curriculum Vitae"
+---
+
+<div class="text-center">
+  <a href="cv/Mohammad_Nasirpour_CV.pdf" class="btn btn-primary btn-lg" download>
+    <i class="bi bi-download"></i> Download CV
+  </a>
+</div>
+
+
+## Education
+Department of Biomedical Sciences, Florida State University, College of Medicine
+M.Sc. in Biomedical Sciences(2021-2024)
+
+## Research Experience
+Mashhad University of Medical Sciences, Mashhad, Iran 2021-2022
+Title: SARS-CoV-2 triggering autoimmune diseases.
+- Reviewing the relevant immunological findings in Covid-19 and the current reports of autoimmune disease associated with the disease.
+
+Ferdowsi University of Mashhad, Mashhad, Iran 2021-2022
+Title: PSOWNNs-CNN: A Computational Radiology for Breast Cancer Diagnosis Improvement Based on Image Processing Using Machine Learning Methods.
+- Presenting an innovative approach of particle swarm optimized wavelet neural network (PSOWNN) method for identifying breast cancer.
+
+Urmia University of Technology, Urmia, Iran 2020- 2021
+2
+Title: Revealing the relationship between solar activity and COVID-19 and forecasting of possible future viruses using multi-step autoregression (MSAR).
+- Identify that the emergence of pandemics like COVID-19 outbreaks would be linked with the extremum of the sunspot cycle and forecasting future pandemics in the world for about 110 years or 10 cycles using presented multi-step autoregression (MSAR).
+
+National Institute of Genetic Engineering and Biotechnology (NIGEB), Tehran, Iran
+Title: Identification of DACH1 gene and its related microRNAs as a novel diagnostic biomarker in four stages of breast cancer.
+- Using PCR, qPCR, MS-PCR, and advanced bioinformatics tools to identify the role of the DACH1 gene as a possible novel biomarker.
+- Identification of the most important protein-protein interaction networks for the DACH1 gene and its related miRNAs.
+- Identification of the most important biological pathways, molecular processes, and transcription factors.
+- Identification of DACH1 methylation status as an important epigenetic mechanism for downregulation.
+
+## Publications
+Lu Hong, Mohammad Hossein Modirrousta, Mohammad Hossein Nasirpour, Mohammadreza Mirshekari Chargari, Fardin Mohammadi, Seyed Vahid Moravvej, Leila Rezvanishad, Mohammadreza Rezvanishad, Ivan Bakhshayeshi, Roohallah Alizadehsani, Imran Razzak, Hamid Alinejad‐Rokny, Saeid Nahavandi. (2023). GAN‐LSTM‐3D: An efficient method for lung tumour 3D reconstruction enhanced by attention‐based LSTM. CAAITrans.Intell.Technol.2023;1–10. https://doi.org/10.1049/cit2.12223
+
+Mohammad Hossein Nasirpour, Mahdieh Salimi, Faezeh Majidi, Zarrin Minuchehr, Hossein Mozdarani. Study of DACH1 Expression and its Epigenetic Regulators as Possible Breast Cancer-Related Biomarkers. (2023). Avicenna J Med Biotechnol. 2023 Apr-Jun; 15(2): 108–117.
+PMID: 37034893.
+
+Ashkan Nomani, Yasaman Ansari, Mohammad Hossein Nasirpour, Armin Masoumian, Ehsan Sadeghi Pour, Amin Valizadeh. (2022). PSOWNNs-CNN: A Computational Radiology for Breast Cancer Diagnosis Improvement Based on Image Processing Using Machine Learning Methods. Journal of Computational Intelligence and Neuroscience, Volume 2022 |Article ID 5667264 | https://doi.org/10.1155/2022/5667264
+
+Mohammad Hossein Nasirpour, Mohammad Sabery Anvar, Alireza Nasirpour, Mahdieh Salimi, Soheil Sepahyr, Zarrin Minuchehr. Gene Expression Profiles Reveal Potential Targets for Breast Cancer Diagnosis and Treatment. bioRxiv, DOI: https://doi.org/10.1101/2022.09.03.504469
+
+Mohammad Hossein Nasirpour, Abbas Sharifi, Mohsen Ahmadi, Saeid Jafarzadeh Ghoushchi.(2021). Revealing the relationship between solar activity and COVID-19 and forecasting of possible future viruses using multi-step autoregression (MSAR). Journal of Environmental Science and Pollution Research.28, pages38074– 38084, https://doi.org/10.1007/s11356-021-13249-2.
+---
+>>>>>>> 860a8c351b7b7c9d7ca3cf487335c0e42ea4b141
