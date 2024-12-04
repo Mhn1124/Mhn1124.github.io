@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 title: "Mohammad Nasirpour"
 image: images/profile.jpg
@@ -19,41 +18,11 @@ about:
 ---
 
 ## Welcome
-
 I am Mohammad Nasirpour, a cancer researcher at the Case Western Reserve University School of Medicine. My current research focuses on employing Spatial Transcriptomics to investigate breast cancer, specifically aiming to understand the biological mechanisms underlying cancer initiation and progression. Through this work, I am dedicated to identifying novel biomarkers for early disease detection.
+
 My research integrates advanced spatial analysis techniques with molecular biology to map gene expression patterns within tumor tissues, providing crucial insights into cancer development. This approach allows us to better understand the complex interactions within the tumor microenvironment and potentially discover new therapeutic targets.
 
-
-=======
----
-title: "Mohammad Nasirpour"
-image: images/profile.jpg
-about:
-  template: trestles
-  image-shape: rectangle
-  image-width: 12em
-  links:
-    - text: Email
-      icon: envelope
-      href: mailto:m.h.nasirpour@gmail.com
-    - text: GitHub
-      icon: github
-      href: https://github.com/Mhn1124
-    - text: CV
-      icon: file-text
-      href: cv/Mohammad_Nasirpour_CV.pdf
-  sidebar:
-    style: docked
-    background: light
-    pinned: true
----
-
-## Research Focus
-
-I am a biomedical researcher specializing in cancer research, with a particular focus on colon and breast cancer at the Cleveland Clinic. My work integrates cutting-edge laboratory techniques with advanced computational approaches to understand cancer biology and identify potential therapeutic targets.
-
 ### Current Research
-
 My current research combines:
 - Advanced laboratory techniques
 - Computational biology methods
@@ -62,29 +31,9 @@ My current research combines:
 - Regulatory mechanism investigation
 
 ### Research Interests
-
 - Cancer Biology
 - Molecular Diagnostics
 - Bioinformatics
 - Translational Research
 - Protein Biomarkers
 
-### Background
-
-I bring significant experience from Florida State University, where I investigated Troponin as a cancer biomarker. This work spanned multiple cancer types, including:
-- Lung cancer
-- Colon cancer
-- Breast cancer
-- Skin cancer
-- Leukemia
-- Brain cancer
----
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
->>>>>>> 860a8c351b7b7c9d7ca3cf487335c0e42ea4b141
