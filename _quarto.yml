@@ -13,6 +13,8 @@ website:
         text: Research
       - href: cv.qmd
         text: CV
+      - href: blog.qmd
+        text: Blog
     right:
       - icon: envelope
         href: mailto:m.h.nasirpour@gmail.com
